@@ -7,7 +7,8 @@
 % -------------------------------------------------------------------------
 % Description  : Process marker trajectories (gap filling and smooth)
 % -------------------------------------------------------------------------
-% Dependencies : - PredictMissingMarkers: https://doi.org/10.1371/journal.pone.0152616
+% Dependencies : - PredictMissingMarkers from Gløersen and Federolf (2016): https://doi.org/10.1371/journal.pone.0152616
+%                - Soder function adapted from Soederqvist and Wedin (1993): https://doi.org/10.1016/0021-9290(93)90098-Y
 % -------------------------------------------------------------------------
 % This work is licensed under the Creative Commons Attribution - 
 % NonCommercial 4.0 International License. To view a copy of this license, 
