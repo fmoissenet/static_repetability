@@ -26,7 +26,7 @@ clc;
 % SET FOLDERS
 % -------------------------------------------------------------------------
 disp('Set folders');
-Folder.toolbox      = 'C:\Users\moissene\OneDrive - unige.ch\2021 - SOFAMEA - Static marker variability\Static-Marker-Variability\';
+Folder.toolbox      = 'C:\Users\moissene\OneDrive - unige.ch\2021 - SOFAMEA - Static marker variability\Static_Repetability_Toolbox\';
 Folder.data         = 'C:\Users\moissene\OneDrive - unige.ch\2019 - NSCLBP - Biomarkers\Data\NSLBP-BIO\Data\NSLBP-BIO-029\20210707 - FWP_session\';
 Folder.dependencies = [Folder.toolbox,'dependencies\'];
 addpath(Folder.toolbox);

@@ -44,6 +44,7 @@ To be defined.
 - PredictMissingMarkers from Gløersen and Federolf (2016): https://doi.org/10.1371/journal.pone.0152616
 - Hip and lumbar joint centre regressions by Dumas and Wojtusch (2018): doi://10.1007/978-3-319-30808-1_147-1
 - Soder function adapted from Soederqvist and Wedin (1993): https://doi.org/10.1016/0021-9290(93)90098-Y
+- 3D Kinematics and Inverse Dynamics toolbox by Raphaël Dumas: https://fr.mathworks.com/matlabcentral/fileexchange/58021-3d-kinematics-and-inverse-dynamics?s_tid=prof_contriblnk
 
 ## Developer
 The proposed routine has been developed by <a href="https://www.unige.ch/medecine/kinesiology/people/florentm/" target="_blank">Florent Moissenet (PhD)</a>, K-Lab, University of Geneva.
